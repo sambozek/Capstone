@@ -4,6 +4,8 @@
 
 This project was to determine how effective a neural network would be in classifying whether or not an image was a Monet or not. Final results was the creation of a model that could correctly pick if an image was a Monet or not roughly 85% of the time.
 
+A full overview of interpetation of results can be found at my [blog](https://sambozek.github.io/capstone.html#capstone).
+
 ## Data
 
 Images used were a selection of images from Kaggle's [Painter by Numbers](https://www.kaggle.com/c/painter-by-numbers) and [C. Monet Gallery](http://www.cmonetgallery.com/) for images by other artists and by Monet, respectively. The data used in training my model can be downloaded [here](https://drive.google.com/open?id=0B1wR-CWF6d0maTd1SFYwWXZZb0k) if one wants to replicate the process. 
