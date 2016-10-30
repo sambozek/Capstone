@@ -1,4 +1,4 @@
-![Claude Monet](http://art-monet.com/image/1880/1885%20Self-Portrait%20with%20a%20Beret7.jpg)
+![Claude Monet](http://art-monet.com/image/1880/1885%20Self-Portrait%20with%20a%20Beret7.jpg =250x250)
 
 # Introduction
 
