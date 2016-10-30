@@ -1,8 +1,5 @@
-<<<<<<< HEAD
+
 <img src="http://art-monet.com/image/1880/1885%20Self-Portrait%20with%20a%20Beret7.jpg" height="300"></img>
-=======
-![Claude Monet](http://art-monet.com/image/1880/1885%20Self-Portrait%20with%20a%20Beret7.jpg =250x250)
->>>>>>> 3132c784acac914e1331192332451c44771abd29
 
 # Introduction
 
